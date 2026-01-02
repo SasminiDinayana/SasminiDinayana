@@ -57,8 +57,10 @@ I enjoy learning new programming concepts, solving problems, and working on acad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SasminiDinayana" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasminiDinayana" />
+<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SasminiDinayana&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SasminiDinayana&layout=compact)
+
 
 
 </div>
