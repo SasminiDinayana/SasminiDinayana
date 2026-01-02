@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=200&section=header&text=Sasmini%20Dinayana%20Senadeera&fontSize=36&fontColor=333333&animation=fadeIn](https://img.freepik.com/free-vector/flat-abstract-doodle-background_23-2149336498.jpg?semt=ais_hybrid&w=740&q=80)" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=500&section=header&text=Sasmini%20Dinayana%20Senadeera&fontSize=36&fontColor=333333&animation=fadeIn" />
 
 🎓 **Undergraduate | University of Plymouth, United Kingdom 🇬🇧**
 💻 **Aspiring Software Engineer | Technology Enthusiast**
