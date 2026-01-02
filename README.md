@@ -1,17 +1,10 @@
-Perfect 👍
-Below is a **FULLY ENHANCED, ATTRACTIVE GitHub PROFILE README** for **Sasmini Dinayana Senadeera**, **including all the extra details** I mentioned:
-✔ GitHub stats
-✔ Badges
-✔ Clean visuals
-✔ Professional + elegant style
 
-You can **copy–paste everything below directly** into her **GitHub profile README.md**.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=200&section=header&text=Sasmini%20Dinayana%20Senadeera&fontSize=36&fontColor=333333&animation=fadeIn" />
+<img src="[https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=200&section=header&text=Sasmini%20Dinayana%20Senadeera&fontSize=36&fontColor=333333&animation=fadeIn](https://img.freepik.com/free-vector/flat-abstract-doodle-background_23-2149336498.jpg?semt=ais_hybrid&w=740&q=80)" />
 
 🎓 **Undergraduate | University of Plymouth, United Kingdom 🇬🇧**
 💻 **Aspiring Software Engineer | Technology Enthusiast**
@@ -118,12 +111,7 @@ I enjoy learning new programming concepts, solving problems, and working on acad
 
 ---
 
-### ✅ Final Tips
 
-✔ Replace `YOUR_GITHUB_USERNAME`
-✔ Add LinkedIn & email
-✔ Upload at least **3–5 active repositories**
-✔ Add screenshots to project READMEs
 
 ---
 
