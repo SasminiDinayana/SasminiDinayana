@@ -1,101 +1,135 @@
-👋 Hi, I'm Sasmini Dinayana Senadeera
+Perfect 👍
+Below is a **FULLY ENHANCED, ATTRACTIVE GitHub PROFILE README** for **Sasmini Dinayana Senadeera**, **including all the extra details** I mentioned:
+✔ GitHub stats
+✔ Badges
+✔ Clean visuals
+✔ Professional + elegant style
 
-🎓 Undergraduate | University of Plymouth, United Kingdom 🇬🇧
-💻 Aspiring Software Engineer | Technology Enthusiast 🌸
+You can **copy–paste everything below directly** into her **GitHub profile README.md**.
 
-✨ Passionate about building meaningful digital solutions and continuously learning new technologies.
+---
 
-🌸 About Me
+<div align="center">
 
-🎓 Undergraduate student at the University of Plymouth, United Kingdom
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=200&section=header&text=Sasmini%20Dinayana%20Senadeera&fontSize=36&fontColor=333333&animation=fadeIn" />
 
-💡 Interested in software development, problem-solving, and modern technologies
+🎓 **Undergraduate | University of Plymouth, United Kingdom 🇬🇧**
+💻 **Aspiring Software Engineer | Technology Enthusiast**
 
-🌱 Currently improving my skills in full-stack development and database systems
+✨ *Building simple, meaningful, and elegant digital solutions* ✨
 
-✨ Motivated, detail-oriented, and eager to grow as a technology professional
+</div>
 
-🚀 Featured Projects
+---
 
-Student Management System – CRUD-based academic project
+## 🌸 About Me
 
-Web Application Project – Built using HTML, CSS, JavaScript, and PHP
+Hello! I’m **Sasmini Dinayana Senadeera**, an undergraduate at the **University of Plymouth, United Kingdom**, with a passion for software development and modern technologies.
 
-Database Management Project – MySQL-based system for academic use
+I enjoy learning new programming concepts, solving problems, and working on academic and personal projects that strengthen my technical and creative skills. I’m continuously growing as a developer and exploring opportunities to apply my knowledge in real-world scenarios.
 
-Academic Mini Projects – Coursework and practice implementations
+---
 
-(Projects will be updated with improvements, documentation, and demos)
+## 🚀 Featured Projects
 
-💻 Tech Stack
+| Project                      | Description                | Tech Stack         |
+| ---------------------------- | -------------------------- | ------------------ |
+| 🎓 Student Management System | CRUD-based academic system | Java / C# / MySQL  |
+| 🌐 Web Application Project   | Responsive web application | HTML, CSS, JS, PHP |
+| 🗄️ Database Project         | Data handling & queries    | MySQL              |
+| 💡 Mini Academic Projects    | Coursework implementations | Mixed              |
 
-Languages
+---
 
-Python
+## 💻 Tech Stack
 
-Java
+### Languages
 
-C#
+![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge\&logo=python\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge\&logo=java\&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-FADADD?style=for-the-badge\&logo=csharp\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-FFE4E1?style=for-the-badge\&logo=php\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDAB9?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-PHP
+### Web & Databases
 
-JavaScript
+![HTML](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge\&logo=html5\&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge\&logo=css3\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFD1DC?style=for-the-badge\&logo=bootstrap\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FADADD?style=for-the-badge\&logo=mysql\&logoColor=black)
 
-Web Technologies
+---
 
-HTML
+## 📊 GitHub Stats
 
-CSS
+<div align="center">
 
-Bootstrap
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine" height="160"/>
 
-Databases
+</div>
 
-MySQL
+---
 
-SQL Server
+## 🔥 Contribution Streak
 
-Tools & Platforms
+<div align="center">
 
-Git & GitHub
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=rose_pine" />
 
-Visual Studio
+</div>
 
-VS Code
+---
 
-XAMPP
+## 🎓 Education
 
-📊 GitHub Stats
+🎓 **BSc (Hons) Undergraduate**
+🏫 **University of Plymouth, United Kingdom**
+📘 Field: Computing / Software Engineering
 
-Active learning and continuous contributions
+---
 
-Exploring different programming languages
+## 🎯 Goals & Interests
 
-Building consistency through academic and personal projects
+🌱 Becoming a confident and skilled **software engineer**
+💡 Building real-world, user-friendly applications
+🌐 Exploring full-stack development
+📚 Lifelong learner with a growth mindset
 
-(GitHub stats cards can be added here for better visuals)
+---
 
-🎓 Education
+## 🤍 Connect With Me
 
-BSc (Hons) Undergraduate
-University of Plymouth, United Kingdom
+<div align="center">
 
-Field: Computing / Software Engineering
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge\&logo=linkedin\&logoColor=black)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:YOUR_EMAIL)
 
-🎯 Goals & Interests
+</div>
 
-Becoming a skilled and confident software engineer
+---
 
-Building real-world applications
+<div align="center">
 
-Exploring full-stack development
+✨ *Thank you for visiting my GitHub profile!* ✨
+🌸 *Always learning. Always improving.* 🌸
 
-Continuous learning and personal growth
+</div>
 
-📫 Let’s Connect
+---
 
-💼 LinkedIn: (Add link)
+### ✅ Final Tips
 
-📧 Email: (Add email)
+✔ Replace `YOUR_GITHUB_USERNAME`
+✔ Add LinkedIn & email
+✔ Upload at least **3–5 active repositories**
+✔ Add screenshots to project READMEs
 
-✨ Thank you for visiting my GitHub profile. I’m always learning, improving, and building! 🌸
+---
+
+If you want, I can now:
+🔥 Generate a **custom pastel GitHub banner**
+🔥 Optimize this for **internship/job applications**
+🔥 Write **beautiful README templates** for each project
+
+Just say the word 😊
