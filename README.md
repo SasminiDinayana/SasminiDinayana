@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=300&section=header&text=🌸%20Sasmini%20Dinayana%20Senadeera%20/n✨ Turning ideas into simple, meaningful digital solutions ✨🌸&fontSize=36&fontColor=333333&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FADADD&height=300&section=header&text=🌸%20Sasmini%20Dinayana%20Senadeera%20🌸/n✨%20Turning%20ideas%20into%20simple,%20meaningful%20digital%20solutions%20✨&fontSize=36&fontColor=333333&animation=fadeIn" />
 
 🎓 **Undergraduate | University of Plymouth, United Kingdom 🇬🇧**
 💻 **Aspiring Software Engineer | Technology Enthusiast**
