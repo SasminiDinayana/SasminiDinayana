@@ -51,29 +51,6 @@ I enjoy learning new programming concepts, solving problems, and working on acad
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-FFD1DC?style=for-the-badge\&logo=bootstrap\&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FADADD?style=for-the-badge\&logo=mysql\&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SasminiDinayana&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SasminiDinayana&layout=compact)
-
-
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SasminiDinayana&theme=rose_pine" />
-
-</div>
 
 ---
 
