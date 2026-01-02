@@ -57,8 +57,9 @@ I enjoy learning new programming concepts, solving problems, and working on acad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SasminiDinayana&show_icons=true&theme=rose_pine" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasminiDinayana&layout=compact&theme=rose_pine" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SasminiDinayana" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasminiDinayana" />
+
 
 </div>
 
@@ -68,7 +69,7 @@ I enjoy learning new programming concepts, solving problems, and working on acad
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SasminiDinayana&theme=rose_pine" />
+<img src="https://streak-stats.demolab.com?user=SasminiDinayana&theme=rose_pine" />
 
 </div>
 
