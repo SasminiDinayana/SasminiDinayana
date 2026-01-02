@@ -112,12 +112,3 @@ I enjoy learning new programming concepts, solving problems, and working on acad
 ---
 
 
-
----
-
-If you want, I can now:
-🔥 Generate a **custom pastel GitHub banner**
-🔥 Optimize this for **internship/job applications**
-🔥 Write **beautiful README templates** for each project
-
-Just say the word 😊
