@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=300&section=header&text=🌸%20Sasmini%20Dinayana%20Senadheera%20🌸&fontSize=36&fontColor=333333&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20University%20of%20Plymouth%20UK&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bdd49a&height=300&section=header&text=🌸%20Sasmini%20Dinayana%20Senadheera%20🌸&fontSize=36&fontColor=333333&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20University%20of%20Plymouth%20UK&descSize=15" />
 
 
 
